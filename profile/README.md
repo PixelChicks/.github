@@ -7,7 +7,7 @@
 
 ## 👩‍💻 About Us
 
-We’re a duo of student developers driven by a shared obsession for:
+We’re a duo of student developers driven by a shared passion for:
 - 💻 Programming  
 - 🌐 Web development  
 - ⚙️ Tech & innovation  

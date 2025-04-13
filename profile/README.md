@@ -45,7 +45,7 @@ We’re constantly building, learning, and pushing boundaries.
 But one project truly stands out:
 
 ### <img src="https://lifeai.up.railway.app/img/rose-lady.png" alt="LifeAI Logo" width="40" style="vertical-align: middle;"/> LifeAI: AI-Powered Support for Breast Cancer Patients   
-🖥️ [Demo](https://lifeai.up.railway.app/info) 🗣️ [Presentation](https://www.canva.com/design/DAGfdV51uIc/1TrZgGRO1gdiulivfzucrQ/edit?utm_content=DAGfdV51uIc&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton) 📌 [Brochure](https://new.express.adobe.com/publishedV2/urn:aaid:sc:EU:0b2d58e8-fabb-4655-a2f0-bb601d149208?promoid=Y69SGM5H&mv=other)
+🖥️ [Demo](https://lifeai.up.railway.app/info) 🗣️ [Presentation](https://www.canva.com/design/DAGfdV51uIc/1TrZgGRO1gdiulivfzucrQ/edit?utm_content=DAGfdV51uIc&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton) 📌 [Brochure](https://simplebooklet.com/lifeai#page=1)
 
 **LifeAI** is an intelligent support platform co-developed with the **Bulgarian Breast Cancer Association (BBCA)** to guide patients through the challenging journey after diagnosis.
 
